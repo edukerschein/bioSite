@@ -5,4 +5,4 @@ A biographical website for Earl Dukerschein
 <ul>
 <li>Professor Darren Osier</li>
 <li>Eva Dukerschein</li>
-</ul
+</ul>
